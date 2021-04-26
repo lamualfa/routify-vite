@@ -2,6 +2,8 @@
 
 Use Vite (_Next Generation Frontend Tooling_) in Routify. What is Vite? see [Vite](https://vitejs.dev/) for more informations.
 
+> Need Vite + Typescript version? See [routify-vite-ts](https://github.com/lamualfa/routify-vite-ts).
+
 ## Installation
 
 ```bash
@@ -33,3 +35,4 @@ See [routify-vite.vercel.app](https://routify-vite.vercel.app/).
 - [routify-twind](https://github.com/lamualfa/routify-twind) - Use Twind (Tailwind CSS in JS version) in Routify.
 - [routify-windi](https://github.com/lamualfa/routify-windi) - Use Windi CSS (_Next generation of Tailwind CSS compiler_) in Routify.
 - [routify-carbon](https://github.com/lamualfa/routify-carbon) - Use IBM Carbon Framework in Routify.
+- [routify-vite-ts](https://github.com/lamualfa/routify-vite-ts) Use Vite (_Next Generation Frontend Tooling_) & Typescript in Routify.
