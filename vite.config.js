@@ -1,6 +1,6 @@
-const svelte = require('@sveltejs/vite-plugin-svelte');
-const { defineConfig } = require('vite');
-const { minify } = require('html-minifier');
+import { svelte } from "@sveltejs/vite-plugin-svelte";
+import { defineConfig } from "vite";
+import { minify } from "html-minifier";
 
 const minifyHtml = () => {
   return {
